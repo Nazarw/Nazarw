@@ -1,3 +1,1 @@
-- yo im nazarw
-- just making a simple programms on py/c#
-- bye lol
+uhh, hi?
